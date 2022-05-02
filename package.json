@@ -1,0 +1,24 @@
+{
+  "name": "primeira-lib-nodejs",
+  "version": "1.0.0",
+  "description": "criação da minha primeira lib com nodejs :)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liviaalvzs/primeira-lib-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liviaalvzs/primeira-lib-nodejs/issues"
+  },
+  "homepage": "https://github.com/liviaalvzs/primeira-lib-nodejs#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
